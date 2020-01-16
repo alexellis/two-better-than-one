@@ -1,5 +1,5 @@
 maintainers:
- - BurtonR
+ - burtonr
  - LucasRoesler
  - alexellis
  - ewilde
@@ -22,7 +22,7 @@ features:
  - rebase
  
 mergers:
- - BurtonR
+ - burtonr
  - LucasRoesler
  - alexellis
  - ewilde
@@ -39,6 +39,6 @@ mergers:
 
 must_approve:
 - alexellis
-- BurtonR
+- burtonr
 
 contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
