@@ -1,0 +1,44 @@
+maintainers:
+ - BurtonR
+ - LucasRoesler
+ - alexellis
+ - ewilde
+ - johnmccabe
+ - jonatasbaldin
+ - kenfdev
+ - martindekov
+ - rgee0
+ - stefanprodan
+ - viveksyngh
+ - Waterdrips
+ - utsavanand2
+
+features:
+ - dco_check
+ - comments
+ - pr_description_required
+# - hacktoberfest
+ - release_notes
+ - rebase
+ 
+mergers:
+ - BurtonR
+ - LucasRoesler
+ - alexellis
+ - ewilde
+ - johnmccabe
+ - jonatasbaldin
+ - kenfdev
+ - martindekov
+ - matipan
+ - rgee0
+ - stefanprodan
+ - viveksyngh
+ - Waterdrips
+ - utsavanand2
+
+must_approve:
+- alexellis
+- LucasRoesler
+
+contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
