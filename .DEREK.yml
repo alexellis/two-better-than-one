@@ -39,6 +39,6 @@ mergers:
 
 must_approve:
 - alexellis
-- burtonr
+- LucasRoesler
 
 contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
