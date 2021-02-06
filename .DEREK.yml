@@ -50,3 +50,7 @@ required_in_issues:
   - "## Steps to Reproduce (for bugs)"
   - "## Context"
   - "## Your Environment"
+
+custom_messages:
+  - name: template
+    value: You need to fill out the whole issue template to participate in this project. Please create a new issue or lookup the template in the .github folder.
